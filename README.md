@@ -1,6 +1,6 @@
 # genstar
 Modify Red Star OS 3.0 easily!
-<img src="https://github.com/calebtechyt/genstar/2026-09-04_20-50.png" width="600" alt="Desktop" />
+<img src="https://github.com/calebtechyt/genstar/blob/main/2026-09-04_20-50.png" width="600" alt="Desktop" />
 # How to install (VM)
 1. Download Red Star OS iso https://archive.org/download/red-star-en/redstar_desktop3.0_sign.iso
 2. put it in vbox or vmware and install the os
