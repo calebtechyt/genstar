@@ -17,7 +17,7 @@ https://www.mediafire.com/file/18xzole2mfeszpm/Genstar.iso/file
 # How to install (Real hardware)
 1. Download Red Star iso https://archive.org/download/red-star-en/redstar_desktop3.0_sign.iso
 2. burn a dvd or make a usb (rufus) with the iso
-3. but your computer and boot to your disc or usb
+3. boot your computer and boot to your disc or usb
 4. install the system
 5. on your main computer, make a 2nd dvd (or use the same usb [or use a 2nd usb]) with the genstar iso file
 6. copy everything to desktop
