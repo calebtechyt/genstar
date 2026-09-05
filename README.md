@@ -1,5 +1,5 @@
-# genstar
-Modify Red Star OS easily!
+# Genstar
+Modify Red Star OS 3.0 easily!
 
 <img src="https://github.com/calebtechyt/genstar/blob/main/3.0.png" width="1000" alt="Desktop 3.0" />
 
